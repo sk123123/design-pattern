@@ -1,4 +1,4 @@
-package com.build;
+package com.build.singleton;
 
 /**
  * 懒汉式
