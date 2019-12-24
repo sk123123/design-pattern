@@ -4,7 +4,7 @@ package com.build.singleton;
  * 懒汉式
  */
 public class SingletonLazy {
-    private static SingletonLazy singleton = null;
+    private static SingletonLazy singleton;
     private SingletonLazy(){}
 
     public SingletonLazy getSingleton(){
