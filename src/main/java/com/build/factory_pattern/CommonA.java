@@ -1,4 +1,4 @@
-package com.build.factory_pattern.public_factory;
+package com.build.factory_pattern;
 
 public class CommonA implements CommonInterFace {
     public void print() {

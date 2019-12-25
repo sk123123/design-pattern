@@ -1,4 +1,4 @@
-package com.build.factory_pattern.public_factory;
+package com.build.factory_pattern;
 
 /**
  * 公共接口
